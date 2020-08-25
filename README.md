@@ -1,2 +1,2 @@
 # DAA
-DAA project
+DAA project of Team sqLITE
