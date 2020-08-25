@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-25T19:40:19.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="9dYfGBG3ejdV92BAwo1j" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-25T19:42:17.029Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Kuhipfvw28i6tn5ISmtv" version="13.6.4" type="github">
   <diagram id="kxgBEVJCPQbhI56NlqeN" name="Page-1">
-    <mxGraphModel dx="1220" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="861" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
           <mxGeometry x="1375" y="1730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kzbOnNVxng_6eBCHzelk-1" value="Rating" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="1860" width="100" height="30" as="geometry" />
+          <mxGeometry x="1500" y="1820" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kzbOnNVxng_6eBCHzelk-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kzbOnNVxng_6eBCHzelk-5" target="kzbOnNVxng_6eBCHzelk-64">
           <mxGeometry relative="1" as="geometry" />
@@ -153,6 +153,12 @@
             <mxPoint x="1320" y="2000" as="sourcePoint" />
             <mxPoint x="1480" y="2000" as="targetPoint" />
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kzbOnNVxng_6eBCHzelk-80" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="jKNY7_8_zjAuuIfCQ90G-1" target="kzbOnNVxng_6eBCHzelk-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1390" y="2010" as="sourcePoint" />
+            <mxPoint x="1550" y="2010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
