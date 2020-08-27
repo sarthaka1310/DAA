@@ -5,5 +5,7 @@ DAA project of Team sqLITE
 
 [Current submission](/phase1_ver1.pdf)
 
-To view the [ER diagram](/Restaurant%20Ratings.drawio) you will have to fork the repository and login with your github to https://app.diagrams.net/
+[ER diagram](/ERdiagram.png)
 The ER diagram is a huge aid in explanation.
+
+Note: Alternatively, you can view the ER diagram in https://app.diagrams.net/ with [this](/Restaurant%20Ratings.drawio) (You will have to fork the repository and login with your github)
