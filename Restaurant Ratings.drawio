@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T19:07:54.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="QPru069hd2iBEPsi-cqK" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-28T19:09:51.602Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="a0jESQo6PVaXiUhD14E1" version="13.6.5" type="github">
   <diagram id="kxgBEVJCPQbhI56NlqeN" name="Page-1">
     <mxGraphModel dx="1449" dy="596" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -90,7 +90,7 @@
         <mxCell id="kzbOnNVxng_6eBCHzelk-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kzbOnNVxng_6eBCHzelk-43" target="kzbOnNVxng_6eBCHzelk-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kzbOnNVxng_6eBCHzelk-43" value="employ" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="kzbOnNVxng_6eBCHzelk-43" value="Employ" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1590" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kzbOnNVxng_6eBCHzelk-48" value="&lt;u&gt;Cin_num&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -99,13 +99,13 @@
         <mxCell id="kzbOnNVxng_6eBCHzelk-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kzbOnNVxng_6eBCHzelk-51" target="kzbOnNVxng_6eBCHzelk-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="kzbOnNVxng_6eBCHzelk-51" value="branch_of" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="kzbOnNVxng_6eBCHzelk-51" value="Branch_of" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1410" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kzbOnNVxng_6eBCHzelk-57" value="Name" style="ellipse;whiteSpace=wrap;html=1;align=center;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1210" y="1570" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="kzbOnNVxng_6eBCHzelk-61" value="from" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="kzbOnNVxng_6eBCHzelk-61" value="From" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1180" y="1970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kzbOnNVxng_6eBCHzelk-64" value="Employee_Id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" parent="1" vertex="1">
